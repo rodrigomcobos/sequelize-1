@@ -1,4 +1,4 @@
-import { Sequelize } from './sequelize';
+import { Sequelize } from 'sequelize';
 
 //dbURI is used to find database (Uniform Resource Identifier)
 const connectToDB = async (dbURI) => {
